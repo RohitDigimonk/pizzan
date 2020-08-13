@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>723ED0A5-8D4E-4D55-9ED5-7299D261C156</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>723ED0A5-8D4E-4D55-9ED5-7299D261C156.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pizzan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pizzan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive Pizzan</string>
+			<key>timeStartedRecording</key>
+			<real>618839299.86951995</real>
+			<key>timeStoppedRecording</key>
+			<real>618839683.11661398</real>
+			<key>title</key>
+			<string>Archive Pizzan</string>
+			<key>uniqueIdentifier</key>
+			<string>723ED0A5-8D4E-4D55-9ED5-7299D261C156</string>
+		</dict>
+		<key>90D21B38-CC1C-46F2-9C19-144B182AF3D3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>90D21B38-CC1C-46F2-9C19-144B182AF3D3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Pizzan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Pizzan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Pizzan</string>
+			<key>timeStartedRecording</key>
+			<real>618903354.689345</real>
+			<key>timeStoppedRecording</key>
+			<real>618903498.79309106</real>
+			<key>title</key>
+			<string>Build Pizzan</string>
+			<key>uniqueIdentifier</key>
+			<string>90D21B38-CC1C-46F2-9C19-144B182AF3D3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

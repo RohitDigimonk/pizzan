@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "9e1745d72c082b218ceaadd5f61c5449"
+build_time: [1597146755, 783723000]
+inputs:
+  "/Users/digimonk/Desktop/pizzan/node_modules/lottie-react-native/src/ios/LottieReactNative/AnimationViewManagerModule.swift": [9223372036, 854775807]
+  "/Users/digimonk/Desktop/pizzan/node_modules/lottie-react-native/src/ios/LottieReactNative/ContainerView.swift": [9223372036, 854775807]

@@ -1,0 +1,1 @@
+/Users/digimonk/Desktop/pizzan/ios/DerivedData/Pizzan/Build/Intermediates.noindex/ArchiveIntermediates/Pizzan/InstallationBuildProductsLocation/Applications/Pizzan.app
